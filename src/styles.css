@@ -1,0 +1,42 @@
+#title {
+  font-family: sans-serif;
+  text-align: center;
+}
+button {
+  position: relative;
+  left: 150px;
+  background-color: #4caf50;
+  border: 1px solid black;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 12px;
+}
+#SaveButton {
+  border-radius: 8px;
+  background-color: #4caf50;
+}
+#DelButton {
+  border-radius: 8px;
+  background-color: #f44336;
+}
+#EditButton {
+  border-radius: 8px;
+  background-color: #008cba;
+}
+
+#title_note {
+  background-color: #80ff80;
+  font-weight: bold;
+  height: 30px;
+  width: 300px;
+}
+
+#text {
+  background-color: #ffff66;
+  height: 300px;
+  width: 300px;
+}
